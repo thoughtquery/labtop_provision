@@ -14,6 +14,7 @@
     - jq
     - unzip
     - mariadb-client-core-10.1
-    - mongodb
     - elixir
-
+    - mongodb
+    - mongodb-server-core
+    - mongodb-clients
