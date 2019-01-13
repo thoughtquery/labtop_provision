@@ -18,3 +18,5 @@
     - mongodb-server-core
     - mongodb-clients
     - goaccess
+    - httpry
+
