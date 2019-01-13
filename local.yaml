@@ -8,5 +8,13 @@
       - mc
       - tmux
       - screen
-      - docker
+      - docker.io
+      - ping
+      - golang-1.10-go
+      - nmap
+      - jq
+      - unzip
+      - mariadb-client-core-10.1
+      - mongod
+      - elixir
 
