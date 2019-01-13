@@ -8,7 +8,6 @@
     - tmux
     - screen
     - docker.io
-    - ping
     - golang-1.10-go
     - nmap
     - jq
